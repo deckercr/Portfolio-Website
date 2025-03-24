@@ -25,7 +25,7 @@ const Repo = () => {
             description: "My personal portfolio website...",
             imageUrl: "/img/Portfolio.png",
             demoUrl: "",
-            githubUrl: "https://github.com/yourusername/project1",
+            githubUrl: "https://github.com/deckercr/Portfolio-Website",
         },
         {
             title: "C# MVC: SmithSwimmingScool",
@@ -35,32 +35,18 @@ const Repo = () => {
             githubUrl: "https://github.com/deckercr/SmithSwimmingSchool",
         },
         {
-            title: "Project 3: Task Manager App",
-            description: "A simple task manager application...",
-            imageUrl: "/img/project3.jpg",
+            title: "CourseMate: Course Management App",
+            description: "A simple course manager application...",
+            imageUrl: "/img/CourseMate.png",
             demoUrl: null,
-            githubUrl: "https://github.com/yourusername/project3",
+            githubUrl: "https://github.com/deckercr/MyBook/tree/main/ProjectOne",
         },
         {
-            title: "Project 4: Blog Application",
-            description: "A responsive blog application...",
-            imageUrl: "/img/project4.png",
-            demoUrl: "https://example-blog.com",
-            githubUrl: "https://github.com/yourusername/my-blog"
-        },
-        {
-            title: "Project 5: Weather App",
-            description: "A weather application showing current conditions.",
-            imageUrl: "/img/project5.png",
-            demoUrl: "https://weather-app.example.com",
-            githubUrl: "https://github.com/yourusername/weather-app"
-        },
-        {
-            title: "Project 6: Music Player",
-            description: "A basic music player application.",
-            imageUrl: "/img/project6.jpg",
-            demoUrl: null,
-            githubUrl: "https://github.com/yourusername/music-player"
+            title: "C++ Project: Binary Search Algorithms",
+            description: "A simple binary search algor...",
+            imageUrl: "/img/C++.png",
+            demoUrl: "",
+            githubUrl: "https://github.com/deckercr/BinarySearchAlgorithms/tree/main"
         }
     ];
 
