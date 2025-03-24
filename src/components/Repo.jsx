@@ -161,11 +161,10 @@ const Repo = () => {
                     />
 
 
-                    <div className="relative max-w-96 mx-auto text-center font-circular-web text-lg md:max-w-[34rem] mt-6">
-                        <p>The Game of Games begins—your life, now an epic MMORPG</p>
-                        <p className="text-gray-500">
-                            Zentry unites every player from countless games and platforms,
-                            both digital and physical, into a unified Play Economy
+                    <div className="text-white relative max-w-96 mx-auto text-center font-circular-web text-lg md:max-w-[34rem] mt-6">
+                        <p>Ready to build something amazing together?</p>
+                        <p className="text-white">
+                        Dive into my GitHub repo and explore the code behind the magic!
                         </p>
                     </div>
                 </div>
