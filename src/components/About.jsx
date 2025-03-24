@@ -212,9 +212,9 @@ function About() {
             <p>Bachelor of Science in Cybersecurity</p>
             <p>Expected Graduation: August 2025</p>
             <p>Dean's List Honoree</p>
+            <p>-  Spring 2023</p>
             <p>-  Summer 2023</p>
             <p>-  Fall 2023</p>
-            <p>-  Spring 2024</p>
           </div>
           
           {/* Work History Card */}
@@ -228,7 +228,7 @@ function About() {
             <br />
             <p>Absolute Computer Systems</p>
             <p>Kenosha, WI</p>
-            <p>Sept 2023 - Aug 2023</p>
+            <p>Sept 2023 - Jan 2024</p>
             <br />
             <p>Columbia College of Missouri</p>
             <p>Columbia, MO</p>

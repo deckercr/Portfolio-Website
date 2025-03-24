@@ -180,7 +180,7 @@ const Hero = () => {
                 </div>
 
                 <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75 drop-shadow-2xl">
-                    T<b>E</b>CH
+                    THE C<b>O</b>DE
                 </h1>
 
                 <div className="absolute left-0 top-0 z-40 size-full">
@@ -206,7 +206,7 @@ const Hero = () => {
             </div>
 
             <h1 className="special-font hero-heading absolute bottom-5 right-5 text-black">
-                T<b>E</b>CH
+                THE C<b>O</b>DE
             </h1>
             {/* TechCards Integration */}
             <div className="absolute bottom-4 left-4 z-30">
